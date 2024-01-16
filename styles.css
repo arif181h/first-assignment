@@ -1,0 +1,239 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+.container , #one ,#two , #three , #four ,#five , footer{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    
+    }
+    .main{
+    background-image: url(images/Banner\ Image.png);
+    padding: 150px 40px;
+    margin-top: 40px;
+    }
+
+
+.container-text h3{
+    color: #FFF;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 370;
+}
+.container-text h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 860px;
+    line-height: 85px; 
+}
+.container-text *{
+    max-width: 537px;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.sectionone-heading .sectionone-img img{
+    width: 400px;
+}
+.sectionone-text h1{
+    color: #F00;
+font-size: 68px;
+font-weight: 600;
+}
+.sectionone-text h5{
+    color: #F00;
+font-size: 20px;
+font-weight: 400;
+}
+.sectionone-text h3{
+    color: #070211;
+font-size: 38px;
+font-weight:600px;
+}
+.sectionone-heading *{
+      width: 681px;
+      text-align: center;
+      margin: 0 auto;
+    }
+    #one{
+        margin-top: 70px;
+    }
+.sectiontwo-text h1{
+    color: #FFF;
+font-size: 54px;
+font-weight: 800;
+line-height: 78px;
+letter-spacing: 7.04px;
+}
+.sectiontwo-text h6{
+    color: rgba(255, 255, 255, 0.80);
+font-size: 16px;
+font-weight: 350;
+line-height: 28px;
+}
+.sectiontwo-text h5{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+}
+.sectiontwo-heading{
+    background-image: url(images/Vectorrr.png);
+    display: flex;
+    justify-content: space-around;
+}
+.sectiontwo-heading .sectiontwo-img img{
+    width: 200px;
+}
+.sectiontwo-heading *{
+    max-width: 592px;
+    text-align: left;
+    align-items: center;
+    margin-top: 24px;
+}
+#two , #three , #four , #five ,footer{
+    margin-top: 70px; 
+
+}
+.lal{
+    color: #F00;
+    
+font-size: 27px;
+font-weight: 500;
+line-height: 46px;
+text-transform: capitalize;
+}
+#three .sectionthree-heading{
+    max-width: 500px;
+    text-align: center;
+    align-items: center;
+    margin: 20px auto;
+    background-color: rgba(255, 0, 0, 0.10);
+    padding: 100px 385px;
+}
+button{
+    border-radius: 8px;
+background: #F00;
+color: #FFF;
+text-align: center;
+font-size: 17px;
+font-weight: 600;
+text-transform: uppercase;
+border: none;
+padding: 12px 8px;
+}
+.sectionfour-div1{
+    max-width: 354px;
+    text-align: left;
+}
+.sectionfour-div3{
+    max-width: 254px;
+    text-align: left;
+}
+.sectionfour-div2 img{
+     width: 300px;
+}
+.sectionfour-div1 h5{
+    color: #F00;
+font-size: 20px;
+font-weight: 400;
+}
+.sectionfour-div1 h1{
+    color: #070211;
+font-size: 48px;
+font-weight: 800;
+text-transform: capitalize;
+}
+.sectionfour-div1 h6{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 17px;
+font-weight: 350;
+line-height: 26px;
+}
+.sectionfour-div3 h1{
+    color: #F00;
+font-size: 48px;
+font-weight: 700;
+}
+.sectionfour-div3 h6{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 330;
+line-height: 27px;
+}
+.sectionfour-heading{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 80px;
+}
+.sectionfive-heading{
+    max-width: 760px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sectionfive-heading img{
+    width: 100px;
+}
+.sectionfive-heading h1{
+color: #070211;
+text-align: center;
+font-size: 38px;
+font-weight: 800;
+text-transform: capitalize;
+}
+.sectionfive-heading h6{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 17px;
+font-weight: 360;
+line-height: 27px;
+}
+.sectionfive-heading form{
+    max-width: 500px;
+    display: flex;
+    margin: 0 auto;
+    gap: 10px;
+}
+.sectionfive-heading input{
+    width: 600px;
+    flex-grow: 1;
+}
+#five{
+    background-color: rgba(255, 0, 0, 0.05);
+}
+.extra{
+    display: flex;
+    justify-content: space-between;
+}
+footer h6{
+    background-color: #FFF;
+}
+.footer-heading3{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-heading1 *{
+    margin-bottom: 30px;
+}
+
+.footer-heading2{
+    text-align: center;
+    margin: 0 auto;
+}
+.color{
+    background-color: black;
+}
+.golop h6{
+    color: #FFF;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px; 
+}
+
